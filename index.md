@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to The Sandy Journal
 
 You can use the [editor on GitHub](https://github.com/sandy-guntupalli/the-sandy-journal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
