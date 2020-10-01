@@ -1,37 +1,42 @@
-## Welcome to The Sandy Journal
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    <!-- TODO: Update the title of your website -->
+    <title>Sandy G.</title>
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+Chettan+2:wght@800&family=Bungee+Shade&family=Chonburi&family=VT323&display=swap" rel="stylesheet">
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+    
+    <div class="image">
+      <img class="https://cdn.glitch.com/fc9cfde2-588f-4875-93b8-d17ec5d64955%2F190.JPG?v=1596751881882">
+    </div>
+    
+    <!-- TODO: Update the heading with the name of your website -->
+    
+    <!-- TODO: Continue to add content to your homepage using your wireframe as a guide.-->
+   
+    <!-- TODO: Add a <div> container around sections of your homepage. -->
+    
+    <!-- TODO: Add a navigation bar  -->
 
-You can use the [editor on GitHub](https://github.com/sandy-guntupalli/the-sandy-journal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sandy-guntupalli/the-sandy-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+      <nav>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="aboutme.html">Sandarsita (Sandy) Guntupalli</a></li>
+            <li><a href="portfolio.html">Portfolio</a></li>
+          </ul>
+        </nav>
+  
+    
+    
+    
+    
+  </body>
+</html>
