@@ -9,7 +9,7 @@
 <body>
   <h1> Todays Hot Topic </h1>
     <h2> What is the best Harry Potter movie? </h2>
-  <img src="https://live.staticflickr.com/107/299900972_e620ccc3e6_b.jpg" alt="harry"</img>
+ <img> style="display: block;" src="https://live.staticflickr.com/107/299900972_e620ccc3e6_b.jpg" alt="Harry Potter and the Order of the Phoenix - Ron Harry and Hermione"</img>
   <p2><b>"Harry Potter and the Order of the Phoenix - Ron Harry and Hermione" by Daniel Semper is licensed under CC BY-NC-ND 2.0</b></p2>
 
 <p> This may be controversial, but I think the Order of the Phoenix is the best movie out of all the Harry Potter series. I have a list of reasons why, first: we get to see multiple genres within this movie as it utilizes romance, suspense, adventure, and comedy. The next reason is that it introduces a solution for the problem of Voldemort instilling hope to viewers which is good because it makes the experience of the movie better. The third reason is that Harry is painted as a more leader sort of character by teaching his friends spells that would be useful to defend themselves. My favorite scene is where Harry and his friends face Voldemort's death eaters chase them and then Strange and his troop appear and fight them. I love this movie the most because it uses all the elements I want in any movie and still managed to display a continuation of the series. </p>
