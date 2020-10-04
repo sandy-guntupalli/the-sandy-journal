@@ -25,7 +25,7 @@
 <p> Every Ghbili film ever made will be legendary, and I mean EVERY SINGLE ONE. Howl's Moving Castle has an enchanting plot and the moment you start to watch, you can't stop; plus, the animation style is SO GOOD. It also has a good amount of humor, making it an all around delightful screening. </p>
   
 <h2> Art: Frog Mug </h2>
-<img scr="https://i.pinimg.com/564x/1b/71/8e/1b718ebd784e2f0549afe3df2f758896.jpg" alt= "witch" </img>
+<img scr="https://i.pinimg.com/564x/1b/71/8e/1b718ebd784e2f0549afe3df2f758896.jpg" alt= "frog" </img>
 
 <p> I mean who wouldn't want a frog mug. IDK how I got into frogs, but all I know is that they rock. The mug also looks really sturdy and would be able to last a good amount of time, I will be purchasing it and you should too (if you are looking to spend your money for no reason 😀). Here is a link for where you can buy the frog mug: <a href="https://www.amazon.com/Toby-Toad-Frog-Coffee-Adorable/dp/B000M67DUW/ref=sr_1_5?dchild=1&keywords=frog+mug&qid=1601834685&sr=8-5">Frog Mug</a> </p>
   
