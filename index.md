@@ -9,13 +9,13 @@
 <body>
   <h1> Todays Hot Topic </h1>
     <h2> What is the best Harry Potter movie? </h2>
- <img src="https://i.pinimg.com/564x/81/d9/33/81d93384bcba764fda29c96ac189715d.jpg" alt="Harry and friends">
+ <img src="https://api.creativecommons.engineering/v1/thumbs/60916142-dcf9-4e46-844d-55a3ec9059ea" alt="Harry and friends">
 
 <p> This may be controversial, but I think the Half-blood prince is the best movie out of all the Harry Potter series. I have a list of reasons why, first: we get to see multiple genres within this movie as it utilizes romance, suspense, adventure, and comedy. The next reason is that it introduces a solution for the problem of Voldemort instilling hope to viewers which is good because it makes the experience of the movie better. The third reason is that Harry is painted as a more leader sort of character by teaching his friends spells that would be useful to defend themselves. Don't forget the movie also introduced butter beer! I love this movie the most because it uses all the elements I want in any movie and still managed to display a continuation of the series. </p>
 
 <h1> The Favs of the Week </h1>
 <h2> Movie: Ratatouille </h2>
-<img src="https://i.pinimg.com/564x/b0/b4/67/b0b4671cf27d29b46a25cf10d2d1f58d.jpg" alt="remy">
+<p style="font-size: 0.9rem;font-style: italic;"><img style="display: block;" src="https://live.staticflickr.com/1060/780765111_1193b56b15.jpg" alt="Ratatouille: Remy being cool"><a href="https://www.flickr.com/photos/61785314@N00/780765111">"Ratatouille: Remy being cool"</a><span> by <a href="https://www.flickr.com/photos/61785314@N00">Fernando Galeano</a></span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC BY-NC-SA 2.0</a><a href="https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=ccsearch&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;margin-top: 2px;margin-left: 3px;height: 22px !important;"><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc_icon.svg?image_id=998ba00e-f8b0-4ba2-96f5-be246b250ab1" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-by_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-nc_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-sa_icon.svg" /></a></p>
 <p> What can I say? Ratatouille is one of the best movies ever created! Everything about it is amazing, the message, the characters, and the food. This movie will forever be in my heart as Remy is so inspirational: Anyone can be a cook! 👩‍🍳  </p>
   
 <h2> Movie 2: Howl's Moving Castle </h2>
