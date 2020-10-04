@@ -16,7 +16,7 @@
 <h1> The Favs of the Week </h1>
 <h2> Movie: Ratatouille </h2>
 <img src="https://i.pinimg.com/564x/b0/b4/67/b0b4671cf27d29b46a25cf10d2d1f58d.jpg" alt="remy">
-<p> What can I say? Ratatouille is one of the best movies ever created! Everything about it is amazing, the message, the characters, and the food. This movie will forever be in my heart as Remy is so inspirational: Anyone can be a cook! 👩‍🍳 
+<p> What can I say? Ratatouille is one of the best movies ever created! Everything about it is amazing, the message, the characters, and the food. This movie will forever be in my heart as Remy is so inspirational: Anyone can be a cook! 👩‍🍳  </p>
   
 <h2> Movie 2: Howl's Moving Castle </h2>
 <img src="https://i.pinimg.com/564x/00/ae/bf/00aebfadce4b7086db367243e715f0cc.jpg" alt="howl">
@@ -24,8 +24,8 @@
   
 <h2> Art: Frog Mug </h2>
 <img src="https://i.pinimg.com/564x/c2/d5/f4/c2d5f437eb4ba819759588f3b3f2cb3d.jpg" alt="frog">
-<p> I mean who wouldn't want a frog mug. IDK how I got into frogs, but all I know is that they rock. The mug also looks really sturdy and would be able to last a good amount of time, I will be purchasing it and you should too (if you are looking to spend your money for no reason 😀).
+<p> I mean who wouldn't want a frog mug. IDK how I got into frogs, but all I know is that they rock. The mug also looks really sturdy and would be able to last a good amount of time, I will be purchasing it and you should too (if you are looking to spend your money for no reason 😀). </p>
   
 <h2> Song: Channa Meraya </h2>
 <img src="https://i.pinimg.com/564x/58/90/21/589021d0920c6f7563c39f4aea75f82d.jpg" alt="chand">
-<p> I chose this song as this week's song because it is really relaxing and IDK the singers are just really good. I personally don't speak Hindi, so I can't understand what they are saying, but I did see the movie where the song is from so I have enough context (movie name: ae dil hai mushkil). I recently got back into bollywood music, so this song is pretty good, you should check it out 😆🤝😛.
+<p> I chose this song as this week's song because it is really relaxing and IDK the singers are just really good. I personally don't speak Hindi, so I can't understand what they are saying, but I did see the movie where the song is from so I have enough context (movie name: ae dil hai mushkil). I recently got back into bollywood music, so this song is pretty good, you should check it out 😆🤝😛. </p>
