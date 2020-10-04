@@ -9,7 +9,7 @@
 <body>
   <h1> Todays Hot Topic </h1>
     <h2> What is the best Harry Potter movie? </h2>
- <img src="https://i.pinimg.com/564x/ff/39/ff/ff39ff092097923753966b165035c71f.jpg" alt="Harry and friends">
+ <img src="https://images.unsplash.com/photo-1548630826-2ec01a41f48f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=80" alt="Harry and friends">
 
 <p> This may be controversial, but I think the Half-blood prince is the best movie out of all the Harry Potter series. I have a list of reasons why, first: we get to see multiple genres within this movie as it utilizes romance, suspense, adventure, and comedy. The next reason is that it introduces a solution for the problem of Voldemort instilling hope to viewers which is good because it makes the experience of the movie better. The third reason is that Harry is painted as a more leader sort of character by teaching his friends spells that would be useful to defend themselves. Don't forget the movie also introduced butter beer! I love this movie the most because it uses all the elements I want in any movie and still managed to display a continuation of the series. </p>
 
