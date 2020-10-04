@@ -24,7 +24,7 @@
   
 <h2> Art: Frog Mug </h2>
 <img src="https://i.pinimg.com/564x/c2/d5/f4/c2d5f437eb4ba819759588f3b3f2cb3d.jpg" alt="frog">
-<p> I mean who wouldn't want a frog mug. IDK how I got into frogs, but all I know is that they rock. The mug also looks really sturdy and would be able to last a good amount of time, I will be purchasing it and you should too (if you are looking to spend your money for no reason 😀). Here is a link for where you can buy the frog mug: https://www.amazon.com/Toby-Toad-Frog-Coffee-Adorable/dp/B000M67DUW/ref=sr_1_5?dchild=1&keywords=frog+mug&qid=1601834685&sr=8-5 </p>
+<p> I mean who wouldn't want a frog mug. IDK how I got into frogs, but all I know is that they rock. The mug also looks really sturdy and would be able to last a good amount of time, I will be purchasing it and you should too (if you are looking to spend your money for no reason 😀). Here is a link for where you can buy the frog mug: <a href="https://www.amazon.com/Toby-Toad-Frog-Coffee-Adorable/dp/B000M67DUW/ref=sr_1_5?dchild=1&keywords=frog+mug&qid=1601834685&sr=8-5">Frog Mug</a> </p>
   
 <h2> Song: Channa Meraya </h2>
 <img src="https://i.pinimg.com/564x/58/90/21/589021d0920c6f7563c39f4aea75f82d.jpg" alt="chand">
